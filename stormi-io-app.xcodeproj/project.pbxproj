@@ -7,40 +7,40 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		52B40E892D7DB0B100B74AD5 /* PBXContainerItemProxy */ = {
+		525823212D7F6B4F00E8E373 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 52B40E6F2D7DB0AF00B74AD5 /* Project object */;
+			containerPortal = 525823072D7F6B4E00E8E373 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 52B40E762D7DB0AF00B74AD5;
+			remoteGlobalIDString = 5258230E2D7F6B4E00E8E373;
 			remoteInfo = "stormi-io-app";
 		};
-		52B40E932D7DB0B100B74AD5 /* PBXContainerItemProxy */ = {
+		5258232B2D7F6B4F00E8E373 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 52B40E6F2D7DB0AF00B74AD5 /* Project object */;
+			containerPortal = 525823072D7F6B4E00E8E373 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 52B40E762D7DB0AF00B74AD5;
+			remoteGlobalIDString = 5258230E2D7F6B4E00E8E373;
 			remoteInfo = "stormi-io-app";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		52B40E772D7DB0AF00B74AD5 /* stormi-io-app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "stormi-io-app.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		52B40E882D7DB0B100B74AD5 /* stormi-io-appTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "stormi-io-appTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		52B40E922D7DB0B100B74AD5 /* stormi-io-appUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "stormi-io-appUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5258230F2D7F6B4E00E8E373 /* stormi-io-app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "stormi-io-app.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		525823202D7F6B4F00E8E373 /* stormi-io-appTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "stormi-io-appTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5258232A2D7F6B4F00E8E373 /* stormi-io-appUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "stormi-io-appUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		52B40E792D7DB0AF00B74AD5 /* stormi-io-app */ = {
+		525823112D7F6B4E00E8E373 /* stormi-io-app */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = "stormi-io-app";
 			sourceTree = "<group>";
 		};
-		52B40E8B2D7DB0B100B74AD5 /* stormi-io-appTests */ = {
+		525823232D7F6B4F00E8E373 /* stormi-io-appTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = "stormi-io-appTests";
 			sourceTree = "<group>";
 		};
-		52B40E952D7DB0B100B74AD5 /* stormi-io-appUITests */ = {
+		5258232D2D7F6B4F00E8E373 /* stormi-io-appUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = "stormi-io-appUITests";
 			sourceTree = "<group>";
@@ -48,21 +48,21 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		52B40E742D7DB0AF00B74AD5 /* Frameworks */ = {
+		5258230C2D7F6B4E00E8E373 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		52B40E852D7DB0B100B74AD5 /* Frameworks */ = {
+		5258231D2D7F6B4F00E8E373 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		52B40E8F2D7DB0B100B74AD5 /* Frameworks */ = {
+		525823272D7F6B4F00E8E373 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -72,22 +72,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		52B40E6E2D7DB0AF00B74AD5 = {
+		525823062D7F6B4E00E8E373 = {
 			isa = PBXGroup;
 			children = (
-				52B40E792D7DB0AF00B74AD5 /* stormi-io-app */,
-				52B40E8B2D7DB0B100B74AD5 /* stormi-io-appTests */,
-				52B40E952D7DB0B100B74AD5 /* stormi-io-appUITests */,
-				52B40E782D7DB0AF00B74AD5 /* Products */,
+				525823112D7F6B4E00E8E373 /* stormi-io-app */,
+				525823232D7F6B4F00E8E373 /* stormi-io-appTests */,
+				5258232D2D7F6B4F00E8E373 /* stormi-io-appUITests */,
+				525823102D7F6B4E00E8E373 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		52B40E782D7DB0AF00B74AD5 /* Products */ = {
+		525823102D7F6B4E00E8E373 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				52B40E772D7DB0AF00B74AD5 /* stormi-io-app.app */,
-				52B40E882D7DB0B100B74AD5 /* stormi-io-appTests.xctest */,
-				52B40E922D7DB0B100B74AD5 /* stormi-io-appUITests.xctest */,
+				5258230F2D7F6B4E00E8E373 /* stormi-io-app.app */,
+				525823202D7F6B4F00E8E373 /* stormi-io-appTests.xctest */,
+				5258232A2D7F6B4F00E8E373 /* stormi-io-appUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,134 +95,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		52B40E762D7DB0AF00B74AD5 /* stormi-io-app */ = {
+		5258230E2D7F6B4E00E8E373 /* stormi-io-app */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 52B40E9C2D7DB0B100B74AD5 /* Build configuration list for PBXNativeTarget "stormi-io-app" */;
+			buildConfigurationList = 525823342D7F6B4F00E8E373 /* Build configuration list for PBXNativeTarget "stormi-io-app" */;
 			buildPhases = (
-				52B40E732D7DB0AF00B74AD5 /* Sources */,
-				52B40E742D7DB0AF00B74AD5 /* Frameworks */,
-				52B40E752D7DB0AF00B74AD5 /* Resources */,
+				5258230B2D7F6B4E00E8E373 /* Sources */,
+				5258230C2D7F6B4E00E8E373 /* Frameworks */,
+				5258230D2D7F6B4E00E8E373 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				52B40E792D7DB0AF00B74AD5 /* stormi-io-app */,
+				525823112D7F6B4E00E8E373 /* stormi-io-app */,
 			);
 			name = "stormi-io-app";
 			packageProductDependencies = (
 			);
 			productName = "stormi-io-app";
-			productReference = 52B40E772D7DB0AF00B74AD5 /* stormi-io-app.app */;
+			productReference = 5258230F2D7F6B4E00E8E373 /* stormi-io-app.app */;
 			productType = "com.apple.product-type.application";
 		};
-		52B40E872D7DB0B100B74AD5 /* stormi-io-appTests */ = {
+		5258231F2D7F6B4F00E8E373 /* stormi-io-appTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 52B40E9F2D7DB0B100B74AD5 /* Build configuration list for PBXNativeTarget "stormi-io-appTests" */;
+			buildConfigurationList = 525823372D7F6B4F00E8E373 /* Build configuration list for PBXNativeTarget "stormi-io-appTests" */;
 			buildPhases = (
-				52B40E842D7DB0B100B74AD5 /* Sources */,
-				52B40E852D7DB0B100B74AD5 /* Frameworks */,
-				52B40E862D7DB0B100B74AD5 /* Resources */,
+				5258231C2D7F6B4F00E8E373 /* Sources */,
+				5258231D2D7F6B4F00E8E373 /* Frameworks */,
+				5258231E2D7F6B4F00E8E373 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				52B40E8A2D7DB0B100B74AD5 /* PBXTargetDependency */,
+				525823222D7F6B4F00E8E373 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				52B40E8B2D7DB0B100B74AD5 /* stormi-io-appTests */,
+				525823232D7F6B4F00E8E373 /* stormi-io-appTests */,
 			);
 			name = "stormi-io-appTests";
 			packageProductDependencies = (
 			);
 			productName = "stormi-io-appTests";
-			productReference = 52B40E882D7DB0B100B74AD5 /* stormi-io-appTests.xctest */;
+			productReference = 525823202D7F6B4F00E8E373 /* stormi-io-appTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		52B40E912D7DB0B100B74AD5 /* stormi-io-appUITests */ = {
+		525823292D7F6B4F00E8E373 /* stormi-io-appUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 52B40EA22D7DB0B100B74AD5 /* Build configuration list for PBXNativeTarget "stormi-io-appUITests" */;
+			buildConfigurationList = 5258233A2D7F6B4F00E8E373 /* Build configuration list for PBXNativeTarget "stormi-io-appUITests" */;
 			buildPhases = (
-				52B40E8E2D7DB0B100B74AD5 /* Sources */,
-				52B40E8F2D7DB0B100B74AD5 /* Frameworks */,
-				52B40E902D7DB0B100B74AD5 /* Resources */,
+				525823262D7F6B4F00E8E373 /* Sources */,
+				525823272D7F6B4F00E8E373 /* Frameworks */,
+				525823282D7F6B4F00E8E373 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				52B40E942D7DB0B100B74AD5 /* PBXTargetDependency */,
+				5258232C2D7F6B4F00E8E373 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				52B40E952D7DB0B100B74AD5 /* stormi-io-appUITests */,
+				5258232D2D7F6B4F00E8E373 /* stormi-io-appUITests */,
 			);
 			name = "stormi-io-appUITests";
 			packageProductDependencies = (
 			);
 			productName = "stormi-io-appUITests";
-			productReference = 52B40E922D7DB0B100B74AD5 /* stormi-io-appUITests.xctest */;
+			productReference = 5258232A2D7F6B4F00E8E373 /* stormi-io-appUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		52B40E6F2D7DB0AF00B74AD5 /* Project object */ = {
+		525823072D7F6B4E00E8E373 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1620;
 				LastUpgradeCheck = 1620;
 				TargetAttributes = {
-					52B40E762D7DB0AF00B74AD5 = {
+					5258230E2D7F6B4E00E8E373 = {
 						CreatedOnToolsVersion = 16.2;
 					};
-					52B40E872D7DB0B100B74AD5 = {
+					5258231F2D7F6B4F00E8E373 = {
 						CreatedOnToolsVersion = 16.2;
-						TestTargetID = 52B40E762D7DB0AF00B74AD5;
+						TestTargetID = 5258230E2D7F6B4E00E8E373;
 					};
-					52B40E912D7DB0B100B74AD5 = {
+					525823292D7F6B4F00E8E373 = {
 						CreatedOnToolsVersion = 16.2;
-						TestTargetID = 52B40E762D7DB0AF00B74AD5;
+						TestTargetID = 5258230E2D7F6B4E00E8E373;
 					};
 				};
 			};
-			buildConfigurationList = 52B40E722D7DB0AF00B74AD5 /* Build configuration list for PBXProject "stormi-io-app" */;
+			buildConfigurationList = 5258230A2D7F6B4E00E8E373 /* Build configuration list for PBXProject "stormi-io-app" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 52B40E6E2D7DB0AF00B74AD5;
+			mainGroup = 525823062D7F6B4E00E8E373;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 52B40E782D7DB0AF00B74AD5 /* Products */;
+			productRefGroup = 525823102D7F6B4E00E8E373 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				52B40E762D7DB0AF00B74AD5 /* stormi-io-app */,
-				52B40E872D7DB0B100B74AD5 /* stormi-io-appTests */,
-				52B40E912D7DB0B100B74AD5 /* stormi-io-appUITests */,
+				5258230E2D7F6B4E00E8E373 /* stormi-io-app */,
+				5258231F2D7F6B4F00E8E373 /* stormi-io-appTests */,
+				525823292D7F6B4F00E8E373 /* stormi-io-appUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		52B40E752D7DB0AF00B74AD5 /* Resources */ = {
+		5258230D2D7F6B4E00E8E373 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		52B40E862D7DB0B100B74AD5 /* Resources */ = {
+		5258231E2D7F6B4F00E8E373 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		52B40E902D7DB0B100B74AD5 /* Resources */ = {
+		525823282D7F6B4F00E8E373 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -232,21 +232,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		52B40E732D7DB0AF00B74AD5 /* Sources */ = {
+		5258230B2D7F6B4E00E8E373 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		52B40E842D7DB0B100B74AD5 /* Sources */ = {
+		5258231C2D7F6B4F00E8E373 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		52B40E8E2D7DB0B100B74AD5 /* Sources */ = {
+		525823262D7F6B4F00E8E373 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -256,20 +256,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		52B40E8A2D7DB0B100B74AD5 /* PBXTargetDependency */ = {
+		525823222D7F6B4F00E8E373 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 52B40E762D7DB0AF00B74AD5 /* stormi-io-app */;
-			targetProxy = 52B40E892D7DB0B100B74AD5 /* PBXContainerItemProxy */;
+			target = 5258230E2D7F6B4E00E8E373 /* stormi-io-app */;
+			targetProxy = 525823212D7F6B4F00E8E373 /* PBXContainerItemProxy */;
 		};
-		52B40E942D7DB0B100B74AD5 /* PBXTargetDependency */ = {
+		5258232C2D7F6B4F00E8E373 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 52B40E762D7DB0AF00B74AD5 /* stormi-io-app */;
-			targetProxy = 52B40E932D7DB0B100B74AD5 /* PBXContainerItemProxy */;
+			target = 5258230E2D7F6B4E00E8E373 /* stormi-io-app */;
+			targetProxy = 5258232B2D7F6B4F00E8E373 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		52B40E9A2D7DB0B100B74AD5 /* Debug */ = {
+		525823322D7F6B4F00E8E373 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -330,7 +330,7 @@
 			};
 			name = Debug;
 		};
-		52B40E9B2D7DB0B100B74AD5 /* Release */ = {
+		525823332D7F6B4F00E8E373 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -383,7 +383,7 @@
 			};
 			name = Release;
 		};
-		52B40E9D2D7DB0B100B74AD5 /* Debug */ = {
+		525823352D7F6B4F00E8E373 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -420,7 +420,7 @@
 			};
 			name = Debug;
 		};
-		52B40E9E2D7DB0B100B74AD5 /* Release */ = {
+		525823362D7F6B4F00E8E373 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -457,7 +457,7 @@
 			};
 			name = Release;
 		};
-		52B40EA02D7DB0B100B74AD5 /* Debug */ = {
+		525823382D7F6B4F00E8E373 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -479,7 +479,7 @@
 			};
 			name = Debug;
 		};
-		52B40EA12D7DB0B100B74AD5 /* Release */ = {
+		525823392D7F6B4F00E8E373 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -501,7 +501,7 @@
 			};
 			name = Release;
 		};
-		52B40EA32D7DB0B100B74AD5 /* Debug */ = {
+		5258233B2D7F6B4F00E8E373 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -522,7 +522,7 @@
 			};
 			name = Debug;
 		};
-		52B40EA42D7DB0B100B74AD5 /* Release */ = {
+		5258233C2D7F6B4F00E8E373 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -546,43 +546,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		52B40E722D7DB0AF00B74AD5 /* Build configuration list for PBXProject "stormi-io-app" */ = {
+		5258230A2D7F6B4E00E8E373 /* Build configuration list for PBXProject "stormi-io-app" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				52B40E9A2D7DB0B100B74AD5 /* Debug */,
-				52B40E9B2D7DB0B100B74AD5 /* Release */,
+				525823322D7F6B4F00E8E373 /* Debug */,
+				525823332D7F6B4F00E8E373 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		52B40E9C2D7DB0B100B74AD5 /* Build configuration list for PBXNativeTarget "stormi-io-app" */ = {
+		525823342D7F6B4F00E8E373 /* Build configuration list for PBXNativeTarget "stormi-io-app" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				52B40E9D2D7DB0B100B74AD5 /* Debug */,
-				52B40E9E2D7DB0B100B74AD5 /* Release */,
+				525823352D7F6B4F00E8E373 /* Debug */,
+				525823362D7F6B4F00E8E373 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		52B40E9F2D7DB0B100B74AD5 /* Build configuration list for PBXNativeTarget "stormi-io-appTests" */ = {
+		525823372D7F6B4F00E8E373 /* Build configuration list for PBXNativeTarget "stormi-io-appTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				52B40EA02D7DB0B100B74AD5 /* Debug */,
-				52B40EA12D7DB0B100B74AD5 /* Release */,
+				525823382D7F6B4F00E8E373 /* Debug */,
+				525823392D7F6B4F00E8E373 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		52B40EA22D7DB0B100B74AD5 /* Build configuration list for PBXNativeTarget "stormi-io-appUITests" */ = {
+		5258233A2D7F6B4F00E8E373 /* Build configuration list for PBXNativeTarget "stormi-io-appUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				52B40EA32D7DB0B100B74AD5 /* Debug */,
-				52B40EA42D7DB0B100B74AD5 /* Release */,
+				5258233B2D7F6B4F00E8E373 /* Debug */,
+				5258233C2D7F6B4F00E8E373 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 52B40E6F2D7DB0AF00B74AD5 /* Project object */;
+	rootObject = 525823072D7F6B4E00E8E373 /* Project object */;
 }
